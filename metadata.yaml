@@ -1,5 +1,5 @@
 _repo: Elainvaltiaita_66281
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Inha, Into Konrad
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '4411'
     url: http://www.gutenberg.org/2009/agents/4411
     wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66281#Elainvaltiaita
 gutenberg_issued: '2021-09-12'
 identifiers:
   gutenberg: '66281'
